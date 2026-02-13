@@ -1,0 +1,1 @@
+{\n  "name": "testing-project",\n  "version": "1.0.0",\n  "description": "A project using Cucumber and Selenium WebDriver for testing.",\n  "main": "index.js",\n  "scripts": {\n    "test": "cucumber-js"\n  },\n  "dependencies": {\n    "@cucumber/cucumber": "^7.0.0",\n    "selenium-webdriver": "^4.0.0"\n  }\n}
